@@ -2,6 +2,8 @@
 
 Lived In is a measured 2D planning coworker for homeowners and interior professionals. It lets a person inspect and edit a seeded one-bedroom apartment while an agent distills household context, proposes a layout version, and makes reversible changes in the same visible plan. The app checks geometry deterministically; it does not claim to be a CAD tool, construction document, accessibility certification, or code-compliance system.
 
+**Live app:** [lived-in.vercel.app](https://lived-in.vercel.app)
+
 ## Run it
 
 From this directory:
